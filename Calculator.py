@@ -11,3 +11,4 @@ class Calculator():
     
 a=Calculator(34,35)
 print(a.add())
+print(a.sub())
