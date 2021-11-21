@@ -4,3 +4,6 @@ class Calculator:
         
     def square(self):
         return self.a**2
+    
+a = Calculator(3)
+print(a.square())
